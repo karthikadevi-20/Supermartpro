@@ -1,6 +1,6 @@
 **Database Name: supermarket**
 
-**Developed by Satya Pramodh, Ravi Rohith**
+**Developed by Karthikadevi M,Dhayal Kumar G,Harish S G**
 
 **Recommended PHP Version 5.6.3**
 
@@ -15,6 +15,3 @@ Password: password
 
 Username: admin
 Password: admin
-
-Username: christine
-Password: password
